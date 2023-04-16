@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-This project was based on an Australian Energy Usage company called **'AusEnergy'**
+This project was based on an Australian Energy Usage company called **'AusEnergy'**.
 AusEnergy had supplied me with some existing data regarding energy demand in Australia over a few years and hoped that I could interpet their data well.
 
 
